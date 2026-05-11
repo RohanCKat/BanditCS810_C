@@ -32,17 +32,14 @@ source bandit_env/bin/activate
 python3 -m venv bandit_env
 bandit_env/bin/activate
 ```
-To deactivate the environment, run deactivate in the environment
-### Linux 
+To deactivate the environment, run `deactivate` in the environment
 ```bash
-source bandit_env/bin/deactivate
+deactivate
 ```
-### Windows 
-```powershell
-bandit_env/bin/deactivate
+Once the virtual environment is active, you can install the tool directly from the PIP command
+```bash
+pip install bandit
 ```
-Once the virtual environment is active, you can install the tool directly from the PIP command above
-
 # 3. Usage
 
 Using Bandit involves pointing it at a specific file or an entire directory of source code. The tool provides a detailed report of every potential vulnerability it discovers, categorized by severity and confidence levels. You can access the comprehensive manual and a full list of available commands by using the help flag.
