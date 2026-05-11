@@ -30,7 +30,7 @@ source bandit_env/bin/activate
 ### Windows 
 ```powershell
 python3 -m venv bandit_env
-bandit_env/Scripts/activate
+bandit_env/bin/activate
 ```
 To deactivate the environment, run deactivate in the environment
 ### Linux 
@@ -39,7 +39,7 @@ source bandit_env/bin/deactivate
 ```
 ### Windows 
 ```powershell
-bandit_env/Scripts/deactivate
+bandit_env/bin/deactivate
 ```
 Once the virtual environment is active, you can install the tool directly from the PIP command above
 
