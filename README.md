@@ -62,7 +62,7 @@ bandit path/to/your/code
 | `-s` | `--skip` | Skips specific test IDs during the scan. |
 | `-l` | `--level` | Filters findings by a specific severity level. |
 | `-n` | `--number` | Limits the number of code lines displayed for each issue. |
-| `--baseline` | `Path` | Ignores existing issues using a path to a previous report. |
+| `N/A` | `--baseline` | Ignores existing issues using a path to a previous report. |
 | `-h` | `--help` | Displays the manual and all available commands |
 
 The recursive flag is a required command for checking entire Python projects.
