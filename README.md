@@ -1,5 +1,8 @@
-# Bandit Security Tutorial
 
+# Bandit Security Tutorial
+# Video Tutorial
+[![Tutorial](https://img.youtube.com/vi/4aFVr_NrtpQ/0.jpg)](https://www.youtube.com/watch?v=4aFVr_NrtpQ)
+# Table of Contents
 1. [Introduction](#1-introduction)
 2. [Installation](#2-installation)
 3. [Usage](#3-usage)
